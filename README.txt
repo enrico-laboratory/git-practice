@@ -1,3 +1,4 @@
 Hello Git and GitHub
 
-Trying out the brach system
+Trying out the branch system
+Now trying VSCode
